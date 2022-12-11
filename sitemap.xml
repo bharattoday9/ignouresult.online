@@ -7,7 +7,22 @@
 	</url>
 	<url>
 		<loc>https://www.ignouresult.online/hindi</loc>
-		<priority>0.50</priority>
+		<priority>0.67</priority>
+		<lastmod>2022-12-11</lastmod>
+	</url>
+	<url>
+		<loc>https://www.ignouresult.online/about</loc>
+		<priority>0.67</priority>
+		<lastmod>2022-12-11</lastmod>
+	</url>
+	<url>
+		<loc>https://www.ignouresult.online/about/naman-kumar.html</loc>
+		<priority>0.33</priority>
+		<lastmod>2022-12-11</lastmod>
+	</url>
+	<url>
+		<loc>https://www.ignouresult.online/about/contact.html</loc>
+		<priority>0.33</priority>
 		<lastmod>2022-12-11</lastmod>
 	</url>
 </urlset>
